@@ -15,11 +15,11 @@
 
 ##  核心能力
 
-* ✅ 构建企业级RAG系统（高召回 + 高精度 + 高可靠）
-* ✅ 实现多Agent任务拆解与执行
-* ✅ 构建代码生成 + 执行 + Debug闭环
-* ✅ 搭建LLM评估系统（Evaluation Loop）
-* ✅ 提供系统级优化能力（而非简单调用模型）
+*  构建企业级RAG系统（高召回 + 高精度 + 高可靠）
+*  实现多Agent任务拆解与执行
+*  构建代码生成 + 执行 + Debug闭环
+*  搭建LLM评估系统（Evaluation Loop）
+*  提供系统级优化能力（而非简单调用模型）
 
 ---
 
@@ -47,9 +47,9 @@ Optimization（优化策略）
 
 ```bash
 .
-├── AI_Coding_Agent/        # 💻 代码生成 + 自动修复系统
-├── rag_system/             # 🧠 企业级RAG系统（v2）
-├── llm_eval_system/        # 📊 LLM评估与优化系统
+├── AI_Coding_Agent/        #  代码生成 + 自动修复系统
+├── rag_system/             #  企业级RAG系统（v2）
+├── llm_eval_system/        #  LLM评估与优化系统
 │
 ├── requirements.txt        # 统一依赖
 ├── pyproject.toml          # 项目配置
